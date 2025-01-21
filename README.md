@@ -24,7 +24,7 @@ A web-based image optimizer that allows users to upload and compress image files
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/image-optimizer.git
+   git clone https://github.com/EdeesonOpina/react-image-optimizer.git
    cd image-optimizer
    ```
 
